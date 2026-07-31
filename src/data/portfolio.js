@@ -8,7 +8,7 @@ export const personalInfo = {
     'I build scalable, secure, and user-friendly web applications using MongoDB, Express.js, React.js, and Node.js.',
   email: 'abhishekhugar56@gmail.com',
   github: 'https://github.com/abhishekhugar57',
-  linkedin: 'https://www.linkedin.com/in/abhishekhugar',
+  linkedin: 'https://www.linkedin.com/in/abhishek-hugar-84973236b/',
   location: 'Karnataka, India',
   resumeUrl: '/resume/ABHISHEK HUGAR (1) (2).pdf',
   resumeDownloadName: 'Abhishek-Hugar-Resume.pdf',
