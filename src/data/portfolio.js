@@ -120,7 +120,7 @@ export const socialLinks = [
   },
   {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/abhishekhugar',
+    url: 'https://www.linkedin.com/in/abhishek-hugar-84973236b/',
     icon: 'linkedin',
   },
   {
